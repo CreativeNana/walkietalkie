@@ -1,19 +1,18 @@
 ## [Course title: CPNT-265-Final: Final presentation.]
-#### Name: Nana
+### Name: Nana
 
 
 ### **Walkie-Talkie** 
-1. Service
-- Local-based urgent short-term job search site
-- Check job/employment information in calendar format
+  - Service
+    + Local-based urgent short-term job search site
+    + Check job/employment information in calendar format
 
 
-2. Usability
-- Calendar format list
-- Click-based search
+### **Implementation Features**
+  - Usability
+    + Calendar format list
+    + Click-based search
 
-
-3. Implementation Features
   - Reusable code
     + Create Common Code Table
     + Generate parent ID and code data
@@ -30,10 +29,10 @@
     + Use TOAST UI Calendar api
 
 
-4. future challenges
+### **future tasks**
 
-1. Improved screen UI: CSS update
-2. Adding calendar functions: Entering and modifying schedules using pop-up calendars
+  - Improved screen UI: CSS update
+  - Adding calendar functions: Entering and modifying schedules using pop-up calendars
 
 
 ### **Attributions:** 
